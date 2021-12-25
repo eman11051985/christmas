@@ -1,0 +1,110 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 35px;
+    background-color:red;
+        height: 30px;
+}
+ul {
+    list-style: none;
+}
+nav ul li {
+    display: inline-block;
+    padding: 0 15px;
+    text-transform: uppercase;
+}
+nav ul li a {
+    transition: 3s;
+
+}
+nav ul li a:hover {
+    color:wheat;
+}
+h1 {
+    color:white;font-size: 130%;
+}
+
+* {
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer {
+    padding: 1px 0;
+    background-color:red;
+}
+.footer .social { text-align: center;
+    padding: 8px;
+    color:red;
+}
+
+.footer .social a {
+font-size: 10px;
+color:white;
+border: 1px solid white;
+width: 15px;
+height: 13px;
+line-height: 1px;
+display: inline-block;
+text-align: center;
+border-radius: 100%;
+margin:2px 20px;
+opacity: 100;
+}
+.footer .social a:hover {
+    opacity: 0.9;color:white;
+}
+.footer ul{
+    margin-top:0 ;
+    padding: 0;
+    list-style:none ;
+    font-size:11px ;
+    margin-bottom: 0;
+    text-align: center;
+}
+.footer ul li a {
+    color:white;
+    text-decoration: none;
+    opacity: 0.8;
+}
+.footer ul li {
+display: inline-block;
+padding: 0 15px;
+}
+.footer ul li a:hover {
+    opacity: 1;color:white;
+}
+body {
+    background-image:url(19.gif) ;background-size:cover ;
+}
+
+img {border-style:dotted green;
+padding:10px 10px;margin: 10px 10px;
+}
+    .jj {border-style:dotted green; text-align: center;
+
+}
+.ll {
+    text-align: center; font-size: 300%;color: white;
+}
+P {
+    text-align: center; font-size: 500%;color: white;
+}
+img {
+    border-style:dotted yellow; text-align: center;
+}
+
+h1 {
+    text-align: center; 
+}
